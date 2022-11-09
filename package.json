@@ -9,18 +9,20 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "axios": "^0.27.2",
-    "next": "12.3.0",
-    "node-html-parser": "^6.0.0",
+    "@emotion/core": "^11.0.0",
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "gh-pages": "^4.0.0",
+    "next": "13.0.2",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },
   "devDependencies": {
-    "@types/node": "18.7.16",
-    "@types/react": "18.0.19",
-    "@types/react-dom": "18.0.6",
-    "eslint": "8.23.1",
-    "eslint-config-next": "12.3.0",
-    "typescript": "4.8.3"
+    "@types/node": "18.11.9",
+    "@types/react": "18.0.25",
+    "@types/react-dom": "18.0.8",
+    "eslint": "8.27.0",
+    "eslint-config-next": "13.0.2",
+    "typescript": "4.8.4"
   }
 }
